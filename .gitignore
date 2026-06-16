@@ -3,3 +3,5 @@
 /src/client.o
 /src/auth.o
 /data/users.dat
+client
+server
