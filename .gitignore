@@ -1,0 +1,5 @@
+/src/server.o
+/src/network.o
+/src/client.o
+/src/auth.o
+/data/users.dat
